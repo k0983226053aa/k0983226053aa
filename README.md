@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @k0983226053aa
-- 👀 I’m interested in Java,Python
+- 👀 I’m interested in Java, C#, Python :)
 
 <!---
 k0983226053aa/k0983226053aa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
